@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://windmark-growth-partners.com/sitemap.xml
